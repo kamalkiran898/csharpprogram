@@ -193,7 +193,7 @@ namespace Person_info
             Console.WriteLine("The sunsign:" + p1.SunSign);
             Console.WriteLine("Toad is BirthDay?:" + p1.BirthDay);
             Console.WriteLine("The allotted screen name:" + p1.ScreenName);
-            Employee e1 = new Employee("Sunil", "T", "sun@gmail.com", 20000.00, 2456.0, "bengaluru");
+            Employee e1 = new Employee("kamal", "T", "kamal@gmail.com", 20000.00, 2456.0, "bengaluru");
             Console.WriteLine("Salary:" + e1.Salary);
             Console.WriteLine(e1.ScreenName);
             Console.ReadLine();
